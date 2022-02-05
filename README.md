@@ -7,4 +7,4 @@ Desenvolva uma página para captação de leads ou newsletter.
 - HTML
 - CSS
 ### Resultado
-- Você pode conferir o resultado final do projeto [clicando aqui](//).
+- Você pode conferir o resultado final do projeto [clicando aqui](https://queziafiladelfo.github.io/discover_challenger_RocketNews/).
